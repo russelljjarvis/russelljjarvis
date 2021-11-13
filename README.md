@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia Neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
-- 🔭 I’m currently working on All types of data driven neuron model optimization.
-- I have a [code portfolio](https://russelljjarvis.github.io/home/) mainly consisting of data driven dashboards, but I am not an intentional dashboard developer. 
+- 🔭 I’m currently working on All types of data driven neuron model optimization. I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am commiting too most recently.
+- 💬 Ask me about computational neuroscience, or linux commands.  
 - ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). 
 
 
