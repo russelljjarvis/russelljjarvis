@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 </div>
 
 - 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
-- 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Julia Neuron model optimization.
-- 🤔 I’m looking for help with paid employment in FOSS.
-- 🔭 I’m currently working on All types of data driven neuron model optimization. I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am commiting too most recently.
-- 💬 Ask me about computational neuroscience and favorite one line hacks.  
 - ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). 
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
+- 🤔 I’m looking for help with paid employment in FOSS.
+- * I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am commiting too most recently.
+- 💬 Ask me about computational neuroscience and favorite one line hacks.  
+- 🔭 I’m currently working on all types of data driven neuron model optimization. 
 
 
 
