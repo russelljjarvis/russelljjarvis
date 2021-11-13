@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <!-- Stats cards -->
 [![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russelljjarvis&theme=cobalt&show_icons=true?count_private=true&show_icons=true))](https://github.com/russelljjarvis/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML)](https://github.com/russelljjarvis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,XSLT)](https://github.com/russelljjarvis/github-readme-stats)
 
 Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
