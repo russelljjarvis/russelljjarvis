@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: ...
 -->
 
 <!-- Stats cards -->
@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,Lua)](https://github.com/russelljjarvis/github-readme-stats)
 
 
-
 - 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia Neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
 - 🔭 I’m currently working on All types of data driven neuron model optimization.
-- ⚡ Fun fact: Orca are also dolphins (toothed whales).
+- I have a [code portfolio](https://russelljjarvis.github.io/home/) mainly consisting of data driven dashboards, but I am not an intentional dashboard developer. 
+- ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). 
 
 
 
