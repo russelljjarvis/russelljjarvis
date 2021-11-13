@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Julia Neuron model optimization.
+- 🤔 I’m looking for help with paid employment in FOSS.
+- 🔭 I’m currently working on All types of data driven neuron model optimization.
+- ⚡ Fun fact: Orca are also dolphins (toothed whales).
+
 
 <!-- Stats cards -->
 [![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russelljjarvis&theme=cobalt&show_icons=true)](https://github.com/russelljjarvis/github-readme-stats)
