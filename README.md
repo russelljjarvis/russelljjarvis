@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!-- Stats cards -->
-            <a href="https://github.com/russelljjarvis/github-readme-stats">
+            
+            
+       
+[![Russell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russelljjarvis)](https://github.com/russelljjarvis/github-readme-stats)
+
+     <a href="https://github.com/russelljjarvis/github-readme-stats">
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=russelljjarvis&theme=cobalt&show_icons=true?count_private=true&show_icons=true" />
             </a>
             <a href="https://github.com/russelljjarvis/russelljjarvis">
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats" />
             </a>
-
-[![Russell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russelljjarvis)](https://github.com/russelljjarvis/github-readme-stats)
 
 
 - 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
