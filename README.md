@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Stats cards -->
 [![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russelljjarvis&theme=cobalt&show_icons=true?count_private=true&show_icons=true))](https://github.com/russelljjarvis/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,Lua)](https://github.com/russelljjarvis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,Lua,Tex)](https://github.com/russelljjarvis/github-readme-stats)
 
 
 - 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
