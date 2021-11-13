@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🌱 I'm currently learning Julia, CUDA and Nvidia Jetson Nano.
-- ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). 
+- ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
