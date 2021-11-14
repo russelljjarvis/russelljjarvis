@@ -28,6 +28,7 @@ Here are some ideas to get you started:
             </a>
 
 </div>
+
 - 🌱 I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am editing most recently.
 - ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. 
 - 😄 Pronouns: He/Him
