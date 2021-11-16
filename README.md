@@ -1,4 +1,4 @@
-### Hi there, this is my GitHub statistics page 👋
+### Hi there, this is Russell's specific GitHub statistics page 👋
 
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
