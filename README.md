@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 </div>
 
 I have been using GitHub since 2014
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
+<p align="center">
+
+            ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
+</p>
 
 
 ### OS Stack
