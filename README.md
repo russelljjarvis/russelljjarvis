@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
 
-### OS Stack
+### Mainly on Unix like Operating Systems 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
