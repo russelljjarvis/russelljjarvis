@@ -28,7 +28,9 @@ Here are some ideas to get you started:
             </a>
 
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)(https://git.io/streak-stats)
+
+I have been using GitHub since 2014
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
 
 ### OS Stack
