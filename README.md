@@ -1,5 +1,7 @@
 ### Hi there, this is Russell's specific GitHub statistics page 👋
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-0281-2849) 
+[![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
