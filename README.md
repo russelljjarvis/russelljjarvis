@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am editing most recently.
-- ⚡ Fun facts: Orca are also dolphins (toothed whales). Elephants really do have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. 
+- ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
