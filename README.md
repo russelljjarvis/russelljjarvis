@@ -1,7 +1,7 @@
 ### Hi there, this is Russell's specific GitHub statistics page 👋
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-0281-2849) 
-
+[![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)]
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: ...
 -->
 
-- 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [![code portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
+- 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
