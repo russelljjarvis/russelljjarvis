@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 </div>
 
-### Developing on GitHub since 2014.
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
-
 
 ### Mainly on Unix like Operating Systems 
 
@@ -52,5 +47,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on all types of data driven neuron model optimization. 
 
 
+
+### Developing on GitHub since 2014.
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
 Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
