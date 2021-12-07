@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am editing most recently.
+- 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [portfolio webpage](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
@@ -54,3 +54,7 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
 </p>
+
+<!-- Links to social media accounts -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/russell-jarvis-jarrod/
