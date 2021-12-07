@@ -32,11 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 
-### Mainly on Unix like Operating Systems 
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
-</p>
 
 - 🌱 I have a [code portfolio](https://russelljjarvis.github.io/home/) if you can scroll midway down you can see projects I am editing most recently.
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
@@ -50,7 +45,12 @@ Here are some ideas to get you started:
 
 ### Developing on GitHub since 2014.
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
 Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+### Mainly Developing on Unix like Operating Systems 
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
+</p>
