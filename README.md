@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 
 Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-### Mainly Developing on Unix like Operating Systems 
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
-</p>
+### Mainly Developing on Unix like Operating Systems  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
 
 <!-- Links to social media accounts -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
