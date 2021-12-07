@@ -5,6 +5,8 @@
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: ...
 -->
 
+
+
+
 <!-- Stats cards -->
             
             
@@ -28,10 +33,8 @@ Here are some ideas to get you started:
             <a href="https://github.com/russelljjarvis/russelljjarvis">
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats" />
             </a>
+       
             
-            <p>
-                        
-            </p>
 
 </div>
 
