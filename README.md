@@ -49,13 +49,15 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=cobalt&repo=SpikeNetOpt.jl" />
+</a>
 
 
 
 ### Developing on GitHub since 2014.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=cobalt)
 
 Mainly Developing on Unix like Operating Systems  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35" height="35"/>
 
