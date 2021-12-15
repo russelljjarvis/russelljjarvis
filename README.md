@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+<a href="https://github.com/russelljjarvis/SpikeNetOpt.jl">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
 </a>
 
