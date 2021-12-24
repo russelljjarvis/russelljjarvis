@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 <details>
 <summary>About Me (personality)</summary>
+            
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
+
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
@@ -49,20 +51,22 @@ Here are some ideas to get you started:
             
 
 </div>
-</details>
-
-
-<a href="https://github.com/russelljjarvis/SpikeNetOpt.jl">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
-</a>
-
-
-
 ### Developing on GitHub since 2014.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
 Mainly Developing on Unix like Operating Systems  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35" height="35"/>
+
+</details>
+
+<details>
+<summary>A Developing Repository I am Proud of</summary>
+
+<a href="https://github.com/russelljjarvis/SpikeNetOpt.jl">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
+</a>
+</details>
+
 
 <!-- Links to social media accounts -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
