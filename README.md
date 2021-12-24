@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: ...
 -->
 
-- 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
+You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 <details>
 <summary>About Me (personality)</summary>
             
