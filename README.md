@@ -69,8 +69,7 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
 </a>
 </details>
 
-<img src="https://grass-graph.moshimo.works/images/russelljjarvis.png">
-
+<img src="https://github.com/users/russelljjarvis/contributions">
 
 <!-- Links to social media accounts -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
