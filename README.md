@@ -4,9 +4,6 @@
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,12 +17,15 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
+<details>
+<summary>About Me (personality)</summary>
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
 - 🤔 I’m looking for help with paid employment in FOSS.
 - 💬 Ask me about computational neuroscience and favorite one line hacks.  
 - 🔭 I’m currently working on all types of data driven neuron model optimization. 
+</details>
 
 
 
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <!-- Stats cards -->
             
             
+<details>
+<summary>GitHub Stats Cards</summary>
        
 <div>
      <a href="https://github.com/russelljjarvis/github-readme-stats">
@@ -47,6 +49,7 @@ Here are some ideas to get you started:
             
 
 </div>
+</details>
 
 
 <a href="https://github.com/russelljjarvis/SpikeNetOpt.jl">
