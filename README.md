@@ -68,7 +68,7 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
 </a>
 </details>
-
+### Calendar:
 <img src="https://ghchart.rshah.org/russelljjarvis" alt="2016rshah's Github chart" />
 
 
@@ -76,3 +76,4 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [2]: https://www.linkedin.com/in/russell-jarvis-jarrod/
 
+[Open Source Flavored CV](https://resume.github.io/?russelljjarvis)
