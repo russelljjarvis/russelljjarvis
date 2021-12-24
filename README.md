@@ -68,7 +68,9 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
 </a>
 </details>
+
 ### Calendar:
+
 <img src="https://ghchart.rshah.org/russelljjarvis" alt="2016rshah's Github chart" />
 
 
