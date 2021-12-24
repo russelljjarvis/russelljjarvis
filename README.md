@@ -69,29 +69,10 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
 </a>
 </details>
 
+<img src="https://ghchart.rshah.org/russelljjarvis" alt="2016rshah's Github chart" />
+
 
 <!-- Links to social media accounts -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [2]: https://www.linkedin.com/in/russell-jarvis-jarrod/
 
-<!-- Prepare a container for your calendar. -->
-<script
-  src="https://cdn.rawgit.com/russelljjarvis/github-calendar/gh-pages/dist/github-calendar.min.js"
->
-</script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/russelljjarvis/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    new GitHubCalendar(".calendar", "your-username");
-</script>
