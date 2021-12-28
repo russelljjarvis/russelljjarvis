@@ -51,7 +51,7 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
             
 
 </div>
-### Developing on GitHub since 2014.
+Developing FOSS on GitHub since 2014.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
