@@ -57,7 +57,6 @@ Developing FOSS on GitHub since 2014.
 
 Mainly Developing on Unix like Operating Systems  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35" height="35"/>
 
-Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -75,3 +74,4 @@ Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.co
 [2]: https://www.linkedin.com/in/russell-jarvis-jarrod/
 
 []()
+Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
