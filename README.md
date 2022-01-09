@@ -46,6 +46,7 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
        
            
 </div>
+I have been practicing social coding in some form since 2014 (7-8 years).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
