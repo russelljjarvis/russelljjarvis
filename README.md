@@ -38,10 +38,10 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
        
 <div>
      <a href="https://github.com/russelljjarvis/github-readme-stats">
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=russelljjarvis&text_color=daf7dc&bg_color=151515&theme=cobalt&show_icons=true?count_private=true&show_icons=true" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api?username=russelljjarvis&text_color=daf7dc&bg_color=151515&theme=cobalt&show_icons=true?count_private=true&show_icons=true&count_private=true" />
             </a>
             <a href="https://github.com/russelljjarvis/russelljjarvis">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,XSLT,OpenEdge%20ABL,AGS%20Script,AMPL,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats&count_private=true" />
             </a>
        
            
