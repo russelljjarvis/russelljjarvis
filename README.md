@@ -24,7 +24,6 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
 
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
-- 🔭 I’m looking for help with paid employment in FOSS.
 - 💬 Ask me about computational neuroscience and favorite one line hacks.  
 - I’m currently working on all types of data driven neuron model optimization. 
 - 🌱🤔 I am learning multiple dispatch, syntactic expressions, and relearning FPGA toolchains.
