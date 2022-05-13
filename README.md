@@ -10,8 +10,10 @@
 🧰 Russell's Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="Julia Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
-
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50" height="50"/>
 ---
+Mainly Developing on Unix like Operating Systems  
+
 
 <!--
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,8 +61,6 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
 I have been practicing social coding in some form since 2014 (7-8 years).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
-
-Mainly Developing on Unix like Operating Systems  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35" height="35"/>
 
 
 </details>
