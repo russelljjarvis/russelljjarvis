@@ -8,12 +8,6 @@
 
 ---
 
-🧰 Russell's Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="Julia Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50" height="50"/>
----
-Mainly Developing on Unix like Operating Systems  
 
 
 <!--
@@ -63,6 +57,13 @@ I have been practicing social coding in some form since 2014 (7-8 years).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
+
+🧰 Russell's Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="Julia Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50" height="50"/>
+---
+Mainly Developing on Unix like Operating Systems  
 
 </details>
 
