@@ -27,14 +27,20 @@ Here are some ideas to get you started:
 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 <details>
 <summary>About Me (personality)  </summary>
-            
+
 - ⚡ Fun facts: Bottle nose dolphins can rest one brain hemisphere at a time. Elephants have a large hippocampus (a structural determinant of good memory). Although octopus are largely cannibalistic, some species still give social living a go. Hippocampus is latin for sea-horse. Orca are also dolphins (toothed whales). 
 
 - 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Julia spiking neuron model optimization.
+- 👯 I am looking to collaborate on Julia spiking neuron model optimization.
 - 💬 Ask me about computational neuroscience and favorite one line hacks.  
 - I’m currently working on all types of data driven neuron model optimization. 
-- 🌱🤔 I am learning multiple dispatch, syntactic expressions, and relearning FPGA toolchains.
+- 🌱🤔 I am learning multiple dispatch, syntactic expressions.
+
+Personal 
+I thrive on social coding, and I often read about how to better foster team synergy and make the most of professional relationships.
+
+I am a postdoctoral researcher at the International Centre for Neuromorphic Systems, The MARCS Institute for Brain, Behaviour and Development, Western Sydney University. In 2021 I completed a PhD in Computational Neuroscience from Arizona State University, where I focused on gradient-free data-driven optimization of single spiking neuronal models. During my PhD, I also contributed to a volunteer research project, where I converted a closed source project science project to using an open-source methodology. Currently, I am developing network models and spiking network algorithms in Python and Julia. 
+
 </details>
 
 
