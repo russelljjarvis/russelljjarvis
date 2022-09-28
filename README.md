@@ -4,7 +4,6 @@
 
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 
-![](https://komarev.com/ghpvc/?username=russelljjarvis)
 
 ---
 
