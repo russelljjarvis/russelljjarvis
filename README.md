@@ -35,7 +35,7 @@ You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https:/
 - I’m currently working on all types of data driven neuron model optimization. 
 - 🌱🤔 I am learning multiple dispatch, syntactic expressions.
 
-Personal 
+ 
 I thrive on social coding, and I often read about how to better foster team synergy and make the most of professional relationships.
 
 I am a postdoctoral researcher at the International Centre for Neuromorphic Systems, The MARCS Institute for Brain, Behaviour and Development, Western Sydney University. In 2021 I completed a PhD in Computational Neuroscience from Arizona State University, where I focused on gradient-free data-driven optimization of single spiking neuronal models. During my PhD, I also contributed to a volunteer research project, where I converted a closed source project science project to using an open-source methodology. Currently, I am developing network models and spiking network algorithms in Python and Julia. 
