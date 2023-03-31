@@ -76,7 +76,7 @@ Mainly Developing on Unix like Operating Systems
 <summary>A Developing Repository I am Proud of</summary>
 
 <a href="https://github.com/russelljjarvis/SpikeNetOpt.jl">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikeNetOpt.jl" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russelljjarvis&theme=dark&repo=SpikingNeuralNetworks.jl" />
 </a>
 </details>
 
