@@ -53,7 +53,7 @@ I am a postdoctoral researcher at the International Centre for Neuromorphic Syst
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=russelljjarvis&text_color=daf7dc&bg_color=151515&theme=cobalt&show_icons=true?count_private=true&show_icons=true&count_private=true" />
             </a>
             <a href="https://github.com/russelljjarvis/russelljjarvis">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,JavaScript,Cython,XSLT,OpenEdge%20ABL,AGS%20Script,Makefile,Shell,AMPL,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats&count_private=true" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,JavaScript,Cython,XSLT,OpenEdge%20ABL,AGS%20Script,Makefile,AMPL,PHP,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats&count_private=true" />
             </a>
        
            
