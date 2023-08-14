@@ -12,7 +12,7 @@ I am about to start experimenting with wearing foam based ear plugs at work to a
 
 ### What do People Misunderstand About You (at Work)?
 
-* Some of my preferences might seem idealistic because of this I will clarify the practicality of these preferences below:
+* Some of my preferences most likely come across as idealistic, and because of this I will clarify how these preferences are practical relative to me below:
 
 #### Journal Choices that Aid to Meet Publication Pressure:
 
