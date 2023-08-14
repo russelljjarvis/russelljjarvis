@@ -1,9 +1,28 @@
-### Hi there, this is Russell's specific GitHub statistics page 👋
+### a One-Page Operating Manual (for Russell Jarvis). 👋
+
+Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not".
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-0281-2849)
 
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 
+### How should people best communicate with you?
+
+I am about to start experimenting with wearing foam based ear plugs at work. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform, or email. 
+
+The most pressing issue is how experiences from other research jobs still effect me now. I have been in a few research projects that crashed before publication and for this reason:
+
+* I prefer research projects that aim for newer journals journals that reduce the solo scientists work burden of completing a publication in any of several different ways. 
+
+* Journals that are orientated towards the code effort and expect less word length: Journal of Open Source Software (JOSS).
+
+* Journals that support executable documents: Next journal.
+
+* Journals that review pre-prints: ELife.
+
+* Open source code and data that I can take anywhere.
+
+* I prefer a non Python programming language. The language I chose as an alternative has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Pertaining to past research experiences I needed a language that doesn't remind me of wasted efforts, this final point may not be rational but its an accurate reflection of my situation. 
 
 ---
 
@@ -13,7 +32,7 @@
 **russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently experimenting with wearing headphones at work
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
