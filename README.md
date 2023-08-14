@@ -4,11 +4,13 @@
 
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 
-Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not".
+Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not". You can see the full template ![here](https://www.amantha.com/wp-content/uploads/2022/05/Operating-Model-v0_2.pdf)
 
 ### How Should People Best Communicate With You?
 
 I am about to start experimenting with wearing foam based ear plugs at work. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform, or email. 
+
+### What do people misunderstand about you?
 
 The most pressing issue is how experiences from other research jobs still effect me now. I have been in a few research projects that crashed before publication and for this reason:
 
