@@ -10,7 +10,7 @@ Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more c
 
 I am about to start experimenting with wearing foam based ear plugs at work. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform, or email. 
 
-### What do People Misunderstand About You (at work)?
+### What do People Misunderstand About You (at Work)?
 
 The most pressing issue is how experiences from other research jobs still effect me now. I have been in a few research projects that crashed before publication and for this reason:
 
