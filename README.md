@@ -12,6 +12,8 @@ I am about to start experimenting with wearing foam based ear plugs at work to a
 
 ### What do People Misunderstand About You (at Work)?
 
+* Some of my preferences might seem idealistic because of this I will clarify the practicality of these preferences below:
+
 #### Motivators
 
 The most pressing issue is how experiences from other research positions continue to effect me now. I have been in a few research projects that crashed before publication and for this reason, I prefer research projects that aim for newer journals journals that reduce the solo scientists work burden of completing a publication in any of several different ways such as: 
