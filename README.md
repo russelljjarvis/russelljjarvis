@@ -8,7 +8,7 @@ Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more c
 
 ### How Should People Best Communicate With You?
 
-I am about to start experimenting with wearing foam based ear plugs at work. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform, or email. 
+I am about to start experimenting with wearing foam based ear plugs at work to assist with filtering out sound. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform or email. 
 
 ### What do People Misunderstand About You (at Work)?
 
