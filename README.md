@@ -21,7 +21,7 @@ The most pressing issue is how experiences from other research positions continu
  * Journals that support executable documents: Next Journal.
  * Journals that review pre-prints: ELife.
  * Open source code and data that I can take with me if I move between organisations.
- * 
+   
 Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
   
 Finally, I prefer research projects that have a basis in alternatives to the Python programming language. The main language I choose as an alternative to Python has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). 
