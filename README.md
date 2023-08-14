@@ -22,7 +22,7 @@ The most pressing issue is how experiences from other research jobs still effect
 
 * Journals that review pre-prints: ELife.
 
-* Open source code and data that I can take anywhere.
+* Open source code and data that I can move about between organisations.
 
 * I prefer a non Python programming language. The language I chose as an alternative has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Relating to past research experiences I use a language that doesn't remind me of wasted efforts.
 
