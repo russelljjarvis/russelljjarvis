@@ -24,7 +24,10 @@ The most pressing issue is how experiences from other research jobs still effect
 
 * Open source code and data that I can move about between organisations.
 
+* Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
+
 * I prefer a non Python programming language. The language I chose as an alternative has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Relating to past research experiences I use a language that doesn't remind me of wasted efforts.
+
 
 ---
 
