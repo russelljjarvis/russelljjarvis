@@ -1,12 +1,12 @@
 ### a One-Page Operating Manual (for Russell Jarvis). 👋
 
-Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not".
-
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-0281-2849)
 
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
 
-### How should people best communicate with you?
+Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not".
+
+### How Should People Best Communicate With You?
 
 I am about to start experimenting with wearing foam based ear plugs at work. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform, or email. 
 
@@ -28,19 +28,7 @@ The most pressing issue is how experiences from other research jobs still effect
 
 
 
-<!--
-**russelljjarvis/russelljjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently experimenting with wearing headphones at work
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun facts: ...
--->
 
 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
 <details>
