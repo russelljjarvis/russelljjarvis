@@ -20,11 +20,11 @@ The most pressing issue is how experiences from other research positions continu
  * Journals that are orientated towards the code effort and expect less word length: Journal of Open Source Software (JOSS).
  * Journals that support executable documents: Next Journal.
  * Journals that review pre-prints: ELife.
- * Open source code and data that I can move about between organisations.
-
-* Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
+ * Open source code and data that I can take with me if I move between organisations.
+ * 
+Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
   
-Finally, I prefer research projects that have a basis in alternatives to the Python programming language. The main language I choose as an alternative to Python has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Relating to past research experiences I use a language that doesn't remind me of wasted efforts.
+Finally, I prefer research projects that have a basis in alternatives to the Python programming language. The main language I choose as an alternative to Python has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). 
 
 These preferences are very negotiable it is just useful to share these preferences for motivational reasons.
 
