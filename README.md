@@ -24,7 +24,7 @@ The most pressing issue is how experiences from other research jobs still effect
 
 * Open source code and data that I can take anywhere.
 
-* I prefer a non Python programming language. The language I chose as an alternative has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Pertaining to past research experiences I needed a language that doesn't remind me of wasted efforts, this final point may not be rational but its an accurate reflection of my situation. 
+* I prefer a non Python programming language. The language I chose as an alternative has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). Relating to past research experiences I use a language that doesn't remind me of wasted efforts.
 
 ---
 
