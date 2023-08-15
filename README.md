@@ -26,7 +26,7 @@ The most pressing issue is how experiences from other research positions continu
    
 Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
   
-Finally, I prefer research projects that have a basis in alternatives to the Python programming language. The main language I choose as an alternative to Python has a reputation for extravagance, but I just wanted a faster alternative to Python (development time/execution time). 
+Finally, I prefer to start research projects that have a basis in alternatives to the Python programming language. The main language I choose as a non status quo language, but I just wanted a faster alternative to Python (development time/execution time). 
 
 These preferences are very negotiable it is just useful to share these preferences for motivational reasons.
 
