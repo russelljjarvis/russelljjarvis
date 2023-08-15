@@ -14,6 +14,8 @@ I am about to start experimenting with wearing foam based ear plugs at work to a
 
 * Some of my preferences most likely come across as idealistic, and because of this I will clarify how these preferences are practical relative to me below:
 
+TLDR I care more about achieving impact via GitHub, than my Google-scholar page. 
+
 #### Journal Choices that Aid to Meet Publication Pressure:
 
 The most pressing issue is how experiences from other research positions continue to effect me now. I have been in a few research projects that crashed before publication and for this reason, I prefer research projects that aim for less traditional journals that can help scientists to be more efficient in any of the following ways: 
