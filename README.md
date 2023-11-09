@@ -3,33 +3,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9813--3167-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-0281-2849)
 
 [![Code Portfolio](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://russelljjarvis.github.io/home/)
-
-Inspired by the idea from the book "Time Wise" paraphrased as "Humans are more complicated than code but machines have documentation and humans do not". You can see the full template [https://www.amantha.com/wp-content/uploads/2022/05/Operating-Model-v0_2.pdf](https://www.amantha.com/wp-content/uploads/2022/05/Operating-Model-v0_2.pdf)
-
-### How Should People Best Communicate With You?
-
-I am about to start experimenting with wearing foam based ear plugs at work to assist with filtering out sound. If I can't hear a polite bid for my attention, try gesturing in my peripheral vision. You can also get me with the default work messenger platform or email. 
-
-### What do People Misunderstand About You (at Work)?
-
-* Some of my preferences most likely come across as idealistic, and because of this I will clarify how these preferences are practical relative to me below:
-
-TLDR I care more about achieving impact via GitHub, than my Google-scholar page. 
-
-#### Journal Choices that Aid to Meet Publication Pressure:
-
-The most pressing issue is how experiences from other research positions continue to effect me now. I have been in a few research projects that crashed before publication and for this reason, I prefer research projects that aim for less traditional journals that can help scientists to be more efficient in any of the following ways: 
- * Journals that are orientated towards the code effort and expect less word length: Journal of Open Source Software (JOSS).
- * Journals that support executable documents: Next Journal.
- * Journals that review pre-prints: ELife.
- * Open source code and data that I can take with me if I move between organisations.
-   
-Traditional Journals that don't support anyone of the above innovations are less appealing for me to publish in.
-  
-Finally, I prefer to start research projects that have a basis in alternatives to the Python programming language. The main language I choose as a non status quo language, but I just wanted a faster alternative to Python (development time/execution time). 
-
-These preferences are very negotiable it is just useful to share these preferences for motivational reasons.
-
 ---
 
 You can find me on [![LinkedIn][2.2]][2] or checkout my [code portfolio](https://russelljjarvis.github.io/home/). If you can scroll midway down my portfolio you can see projects I am editing most recently.
