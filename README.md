@@ -20,10 +20,10 @@ I thrive on social coding, and I often read about how to better foster team syne
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,CythonXSLT,OpenEdge%20ABL,AGS%20Script,Makefile&langs_count=20)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,CythonXSLT,OpenEdge%20ABL,AGS%20Script,Makefile)"/>
 </div>
 
-I have been practicing social coding in some form since 2014 (9 years).
+I have been practicing social coding in some form since 2014 (10 years).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
