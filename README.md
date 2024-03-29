@@ -14,17 +14,13 @@ I thrive on social coding, and I often read about how to better foster team syne
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=russelljjarvis&text_color=daf7dc&bg_color=151515&theme=cobalt&show_icons=true?count_private=true&show_icons=true&count_private=true" />
             </a>
  
- 
-            <a href="https://github.com/russelljjarvis/russelljjarvis">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&layout=compact&text_color=daf7dc&bg_color=151515&theme=cobalt&hide=jupyter%20notebook,HTML,JavaScript,Cython,XSLT,OpenEdge%20ABL,AGS%20Script,Makefile,AMPL,PHP,GAP,Roff,C,SCSS,Lua&langs_count=7)](https://github.com/russelljjarvis/github-readme-stats&count_private=true" />
-            </a>
        
 
 
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,Cython"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,CythonXSLT,OpenEdge%20ABL,AGS%20Script,Makefile,AMPL,PHP,GAP,Roff,C,SCSS,Lua&langs_count=7)"/>
 </div>
 
 I have been practicing social coding in some form since 2014 (9 years).
