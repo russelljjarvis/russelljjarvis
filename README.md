@@ -23,7 +23,9 @@ I thrive on social coding, and I often read about how to better foster team syne
 
 </div>
 
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,Cython"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,JavaScript,Cython"/>
+</div>
 
 I have been practicing social coding in some form since 2014 (9 years).
 
