@@ -23,7 +23,7 @@ I thrive on social coding, and I often read about how to better foster team syne
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelljjarvis&hide=jupyter%20notebook,HTML,CythonXSLT,OpenEdge%20ABL,AGS%20Script,Makefile,XSLT,AMPL,GAP,Roff"/>
 </div>
 
-I have been practicing social coding in some form since 2014 (10 years).
+I have been practicing social coding in some form since 2014 (11 years).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=russelljjarvis&theme=dark)
 
